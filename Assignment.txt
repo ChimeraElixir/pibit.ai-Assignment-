@@ -1,0 +1,31 @@
+You are an AI that can parse resumes. Given the resume text below, convert the content into JSON format with the following structure:
+
+Name
+
+Contact Information
+  LinkedIn
+  Leetcode
+  GitHub
+  Email
+  Mobile
+
+Summary
+
+Skills
+  Programming Languages
+  Libraries
+  Software and Platforms
+  Academic Coursework
+
+Projects
+  Project Name
+  Technologies
+  Description
+
+Education
+  Institution
+  Degree
+  CGPA/Percentage
+  Year
+
+Achievements
